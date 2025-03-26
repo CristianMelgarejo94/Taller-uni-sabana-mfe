@@ -17,6 +17,9 @@ Para comenzar, debes instalar las dependencias de cada proyecto. Sigue estos pas
     ```bash
     git clone https://github.com/CristianMelgarejo94/CristianMelgarejo94-taller-uni-sabana-mfe.git
     ```
+     ```bash
+    cd Taller-uni-sabana-mfe
+    ```
 
 2. **Accede a cada proyecto** y ejecuta el comando de instalación de dependencias:
     ```bash

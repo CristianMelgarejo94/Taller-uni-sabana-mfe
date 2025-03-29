@@ -17,8 +17,6 @@ function App() {
     isLoading,
   } = useFetch (`https://newsapi.org/v2/everything?q=${query}&from=${dates.fiveDaysAgo}&to=${dates.today}&sortBy=popularity&apiKey=${apiKey}&language=es`);
 
-  console.log(data);
-
   useEffect(() => {
     setDataResponse(data);
   }, [data]);

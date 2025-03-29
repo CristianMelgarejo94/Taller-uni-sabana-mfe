@@ -1,9 +1,12 @@
 import React from 'react'
+import { ErrorBoundary } from './ErrorBoundary';
 
 const WeatherAppRemote = React.lazy(() => import('weatherApp/App'));
 
 export const WeatherApp = () => {
   return (
-    <WeatherAppRemote/>
+    <ErrorBoundary>
+      <WeatherAppRemote/>
+    </ErrorBoundary>
   )
 }

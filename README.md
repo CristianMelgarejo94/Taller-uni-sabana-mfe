@@ -2,6 +2,14 @@
 
 Bienvenido al repositorio del Taller UniSabana - Micro Frontends y su Integración con Microservicios. Aquí encontrarás tres aplicaciones creadas con React y Vite. Este tutorial te guiará paso a paso para poner en funcionamiento estos micro frontends y observar su integración.
 
+El link de la presentación del equipo se encuentra en el siguiente Link: [Presentación Micro Frontends y su Integración con Microservicios](https://gamma.app/docs/Micro-Frontends-owmzbepjjoi4kr6)
+
+Integrantes:
+- Jhon Villamizar
+- Boris Castellanos
+- Cristian Melgarejo
+- Camilo Navarrete
+
 ## Proyectos
 
 Los proyectos incluidos en este repositorio son los siguientes:
